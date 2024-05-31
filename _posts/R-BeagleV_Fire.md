@@ -1,7 +1,14 @@
 ---
 layout: post
-author: Atharva Kashalkar
+title:  "Inception Movie"
+author: Atharva
+categories: [ GSOC ]
+tags: [resources]
+image: ../assets/images/BeagleV-Fire.jpg
+description: "A little introduction about BeagleV-Fire board which will be used during my GSOC project"
 featured: true
+hidden: true
+rating: 4.5
 ---
 
 # BeagleV-Fire
