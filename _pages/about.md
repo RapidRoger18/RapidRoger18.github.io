@@ -1,35 +1,22 @@
 ---
-layout: page
-title: Mediumish Template for Jekyll
+layout: about_page
+title: About the Author 
 permalink: /about
-comments: true
+explore: false
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+### **Atharva Kashalkar**
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
+<div class="row">
+  <div class="column_left">Hello, Myself Atharva Kashalkar. I am currently pursuing a degree in Electronics Engineering at VJTI, Mumbai. My journey into the fascinating world of computers began in high school, where my curiosity about their inner workings led me to delve into Computer Architecture. Since then, I’ve been captivated by the complexity and elegance of how computers operate, making this field feel like a dream come true.<br>
+Beyond my academic pursuits, I am an avid video game enthusiast. Gaming has been a significant part of my life, offering both a thrilling escape and a deeper appreciation for the technology behind these digital worlds. After all, who doesn’t love a great game?.</div>
+  <div class="column_right"><img src = "../assets/images/myself.jpg" height = "200" width = "200" ></div>
 </div>
 
-<div class="col-md-4">
+### Expertise
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+- **Computer Architecture**
+- **Digital Design**
+- **FPGA**
+- **Verilog HDL**

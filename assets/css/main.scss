@@ -13,3 +13,19 @@
 	"syntax",
     "starsnonscss"
 ;
+.column_left {
+	float: left;
+	display: table-cell;
+	width: 75%;
+  }
+.column_right {
+	float: right;
+	display: table-cell;
+	width: 25%;
+}
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
