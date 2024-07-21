@@ -5,8 +5,8 @@ author: Atharva
 categories: [ GSOC ]
 tags: [Updates]
 image: ../assets/images/BeagleV-Fire.png
-description: ""
-featured: true
+description: "Challenges and Innovations in programming and testing real-time systems with RISC-V architecture."
+featured: false
 hidden: false
 ---
 
