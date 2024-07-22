@@ -12,8 +12,8 @@ hidden: false
 
 *As the GSoC timeline began, I was still immersed in my end-term examinations, which delayed my start on the coding aspect of my project. However, I remained committed to advancing my work by focusing on foundational research.*
 
-
 I began by addressing some fundamental questions:
+
 - **How will I program this PRU?** <br>
     A quick solution would be to load the program while flashing the soft core onto the FPGA, but this undermines the essence of a "real-time" system. To achieve true real-time functionality, I needed to program the memory at runtime, which could only be accomplished through the Linux system running on the main CPU. This approach promised to be challenging to implement and even harder to debug.
 
