@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Integrating PicoRV32 with BeagleV-Fire CAPE for Enhanced Modularitye"
+title:  "Integrating PicoRV32 with BeagleV-Fire"
 author: Atharva
 categories: [ GSOC ]
 tags: [Updates]
-image: ../assets/images/BeagleV-Fire.png
+image: ../assets/images/PolarFire-SoC-FPGA-Regular.png
 description: "A detailed walkthrough of creating a flexible wrapper module to connect PicoRV32 with memory and GPIOs."
-featured: true
+featured: false
 hidden: false
 ---
 

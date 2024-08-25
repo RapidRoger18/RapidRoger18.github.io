@@ -4,9 +4,9 @@ title:  "Choosing PicoRV32: A Balanced Softcore CPU"
 author: Atharva
 categories: [ GSOC ]
 tags: [Updates]
-image: ../assets/images/BeagleV-Fire.png
+image: ../assets/images/picoRV32.png
 description: "We landed on PicoRV32 as the softcore CPU for our project, balancing resource efficiency and community support with the trade-offs of performance and code complexity."
-featured: true
+featured: false
 hidden: false
 ---
 

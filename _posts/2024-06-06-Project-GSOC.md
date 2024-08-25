@@ -4,13 +4,11 @@ title:  "About my GSOC Project"
 author: Atharva
 categories: [ GSOC ]
 tags: [Resources]
-image: ../assets/images/BeagleV-Fire.png
+image: ../assets/images/beagleboard-logo.png
 description: "About: Exploring the deployment of a custom RISC-V core on BeagleV-Fire to achieve ultra-low-latency I/O operations."
 featured: false
 hidden: false
 ---
-## Introduction
-
 *As embedded systems evolve, the need for efficient real-time processing is crucial. The BeagleV-Fire's FPGA fabric provides an ideal platform to deploy a custom RISC-V core aimed at high-performance I/O control tasks. This project aims to replicate the Programmable Real-time Unit (PRU) subsystem by Texas Instruments deployed on BeagleBone Black, enhancing the flexibility and responsiveness of embedded applications.*
 
 ---

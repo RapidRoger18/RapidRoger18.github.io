@@ -4,7 +4,7 @@ title:  "Testing the Integration of Inline Assembly and Memory Mapping"
 author: Atharva
 categories: [ GSOC ]
 tags: [Updates]
-image: ../assets/images/BeagleV-Fire.png
+image: ../assets/images/inline-code.png
 description: "Exploring the testing process for low-latency operations in PicoRV32, focusing on inline assembly and program memory flashing to ensure efficient integration towards software side of things."
 featured: true
 hidden: false
