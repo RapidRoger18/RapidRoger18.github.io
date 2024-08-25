@@ -77,4 +77,4 @@ This modular approach not only streamlines the development process but also open
 ---
 ### References
 - [BVF Wrapper module](https://openbeagle.org/gsoc/2024/riscv-io-core/-/blob/03705ea32662c539c17e95e0700310f81e81e066/sources/FPGA-design/script_support/components/SOFTCORE/PICO_RISCV/HDL/BVF_WRAPPER.v)
-- [Softcore component to gateware](https://openbeagle.org/gsoc/2024/riscv-io-core/-/tree/03705ea32662c539c17e95e0700310f81e81e066)
+- [Softcore component to gateware](https://openbeagle.org/gsoc/2024/riscv-io-core/-/tree/03705ea32662c539c17e95e0700310f81e81e066/sources/FPGA-design/script_support/components/SOFTCORE)
