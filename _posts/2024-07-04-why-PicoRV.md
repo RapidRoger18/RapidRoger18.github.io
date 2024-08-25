@@ -33,3 +33,8 @@ However, there are also some drawbacks to consider:
 - **Code Complexity:** All PicoRV modules are implemented within a single Verilog file, making it challenging to navigate the codebase.
 
 After weighing these pros and cons, we decided to proceed with PicoRV32 as the Softcore CPU for this project. Its balance between resource efficiency and flexibility made it the ideal choice, despite some small trade-offs in performance and code structure complexity.
+
+---
+### References
+- [PicoRV32](https://github.com/YosysHQ/picorv32/tree/main)
+- [PicoRV instantiation with BVF Gateware](https://openbeagle.org/gsoc/2024/riscv-io-core/-/tree/fc6d3425c460b65ad49bc5085d24d0ffb9acc266/sources/FPGA-design/script_support/components/CAPE/PICO-INST)

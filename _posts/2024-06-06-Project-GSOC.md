@@ -6,7 +6,7 @@ categories: [ GSOC ]
 tags: [Resources]
 image: ../assets/images/BeagleV-Fire.png
 description: "About: Exploring the deployment of a custom RISC-V core on BeagleV-Fire to achieve ultra-low-latency I/O operations."
-featured: true
+featured: false
 hidden: false
 ---
 ## Introduction
@@ -40,3 +40,8 @@ While the project holds great promise, it also presents challenges. Achieving I/
 ### Conclusion
 
 This project stands at the intersection of open-source hardware and software development, with the potential to significantly enhance real-time control systems. By deploying a custom RISC-V core on the BeagleV-Fire, we aim to create a powerful and flexible platform for various industrial applications. Stay tuned for updates as we progress through our development journey!
+
+---
+### References
+- [BeagleV-Fire Upstream Repository](https://openbeagle.org/beaglev-fire/gateware)
+- [Daily Commit Repository](https://openbeagle.org/gsoc/2024/riscv-io-core)

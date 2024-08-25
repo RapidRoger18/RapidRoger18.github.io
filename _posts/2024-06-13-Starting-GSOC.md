@@ -28,3 +28,9 @@ With these questions in mind, I gathered numerous resources, diving into a selec
 Once my exams concluded, I set up a basic environment for testing I/O mapping. Given my prior experience with a RISC-V CPU during my first-year project, I chose to use the same processor for testing. This decision not only expedited the setup process but also leveraged my existing knowledge of the architecture. I also revisited RISC-V compiler instructions and arguments that defined system parameters for memory and peripherals, drawing from resources I had encountered in previous competitions.
 
 Overall, I was excited to build on this groundwork and eager to see where this project would lead me in the world of RISC-V and real-time systems.
+
+---
+### References
+- [About Risc-V](https://riscv.org/)
+- [PRU Documentations](https://software-dl.ti.com/processor-sdk-linux/esd/AM62X/latest/exports/docs/common/PRU-ICSS/Overview.html)
+- [PRU Cookbook](https://docs.beagleboard.org/latest/books/pru-cookbook/index.html)
